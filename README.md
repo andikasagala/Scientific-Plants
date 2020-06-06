@@ -17,7 +17,7 @@ Scientific Plants software is open source. It is free, means you can develop nor
 <br><br>
 <h2>Features:</h2>
 - Latin name <br>
-- Pictures <br>
+- Plant pictures <br>
 - Chemistry list <br>
 - Images under microscope <br>
 
