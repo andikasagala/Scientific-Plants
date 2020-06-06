@@ -11,24 +11,24 @@ Scientific Plants software is open source. It is free, means you can develop nor
 <br><br><br>
 
 <h2>Purposes:</h3>
-- For anyone
-- Scientific
-- Additional guide for plants in latin 
+- For anyone <br>
+- Scientific <br>
+- Additional guide for plants in latin <br>
 <br><br>
 <h2>Features:</h2>
-- Latin name
-- Pictures
-- Chemistry compounds
-- Images under microscope
+- Latin name <br>
+- Pictures <br>
+- Chemistry list <br>
+- Images under microscope <br>
 
 <h2>Languages:</h2>
-- C
-- C#
-- C++
+- C <br>
+- C# <br>
+- C++ <br>
 
 <h2>Operating Systems:</h2>
-- Windows OS
-- Linux
+- Windows OS<br>
+- Linux<br>
 - Another unix OS<br>
 
 <h2>Next features:</h2>
