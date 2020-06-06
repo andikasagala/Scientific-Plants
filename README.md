@@ -13,7 +13,7 @@ Scientific Plants software is open source. It is free, means you can develop nor
 <h2>Purposes:</h3>
 - For anyone <br>
 - Scientific <br>
-- Additional guide for plants in latin <br>
+- Additional guide for plants in latin for Drugs and Herbal software<br>
 <br><br>
 <h2>Features:</h2>
 - Latin explanation <br>
