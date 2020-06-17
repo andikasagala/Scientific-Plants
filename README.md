@@ -20,6 +20,7 @@ Scientific Plants software is open source. It is free, means you can develop nor
 - Plant pictures <br>
 - Chemistry list <br>
 - Images under microscope <br>
+- Classification of allowed or disallowed for using at https://github.com/andikasagala/Drugs-And-Herbal
 
 <h2>Languages:</h2>
 - C <br>
