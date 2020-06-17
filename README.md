@@ -33,5 +33,5 @@ Scientific Plants software is open source. It is free, means you can develop nor
 - Another unix OS<br>
 
 <h2>Next features:</h2>
-- Plants which can be used for herbal at forest.
-- Danger level indicator. The danger level pointing to allowed or not allowed using as herbal mainly  https://github.com/andikasagala/Drugs-And-Herbal
+- Plants which can be used for herbal at forest. <br>
+- Danger level indicator. The danger level pointing to allowed or not allowed using as herbal mainly  https://github.com/andikasagala/Drugs-And-Herbal <br>
