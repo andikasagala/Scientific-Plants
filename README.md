@@ -18,7 +18,7 @@ Scientific Plants software is open source. It is free, means you can develop nor
 <h2>Features:</h2>
 - Latin explanation <br>
 - Plant pictures <br>
-- Chemistry list <br>
+- Biochemistry list <br>
 - Images under microscope <br>
 - Classification of allowed or disallowed for using at https://github.com/andikasagala/Drugs-And-Herbal
 
