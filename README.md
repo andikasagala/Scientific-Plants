@@ -1,6 +1,37 @@
----== Scientific Plants ==---
-Coder: Andika Sagala
-Date: June, 2020
+<h1>---== Scientific Plants ==---</h1>
+<b>Coder: Andika Sagala</b><br>
+<b>Date: June, 2020</b><br>
+<br><br>
 
+<h3>in progress of development... coming soon..</h3>
 
-in progress of development... coming soon..
+<br><br>
+<b>version v0.01a </b><br>
+Scientific Plants software is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method. <br>
+<br><br><br>
+
+<h2>Purposes:</h3>
+- For anyone <br>
+- Scientific <br>
+- Additional guide plants in latin for Drugs and Herbal software ( link: https://github.com/andikasagala/Drugs-And-Herbal )<br>
+<br><br>
+<h2>Features:</h2>
+- Latin explanation <br>
+- Plant pictures <br>
+- Biochemistry list <br>
+- Images under microscope <br>
+- Classification of allowed or disallowed for using at https://github.com/andikasagala/Drugs-And-Herbal
+
+<h2>Languages:</h2>
+- C <br>
+- C# <br>
+- C++ <br>
+
+<h2>Operating Systems:</h2>
+- Windows OS<br>
+- Linux<br>
+- Another unix OS<br>
+
+<h2>Next features:</h2>
+- Plants which can be used for herbal. Plants source take from  nature forest. <br>
+- Danger level indicator. The danger level pointing to allowed or not allowed using as herbal mainly  https://github.com/andikasagala/Drugs-And-Herbal <br>
