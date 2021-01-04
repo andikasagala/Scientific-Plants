@@ -36,7 +36,16 @@ Scientific Plants software is open source. It is free, means you can develop nor
 - Plants which can be used for herbal. Plants source take from  nature forest. <br>
 - Danger level indicator. The danger level pointing to allowed or not allowed using as herbal mainly  https://github.com/andikasagala/Drugs-And-Herbal <br>
 
+<br><br>
+<h3>Warning !!! </h3>
 
+
+This source code is not available for the terrorist countries list below :
+- Africa Continent
+- Afghanistan, Sahrawi Arab Democratic Republic, Palestine, Armenia, Azerbaijan, Bahrain, Bangladesh, Brunei, Indonesia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Malaysia, Lebanon, Maldives, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen, Kazakhstan, Papua New Guinea, Federated States of Micronesia, Vanuatu, Tuvalu, Solomon Islands
+, Samoa, Nauru
+
+<br><br>
 
 
 <br><br>
