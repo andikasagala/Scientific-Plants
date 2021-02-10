@@ -1,5 +1,5 @@
 <h1>---== Scientific Plants ==---</h1>
-<b>Coder: Andika Sagala ( Andy Charles Poenas )</b><br>
+<b>Coder: Andi Sagala ( Andy Charles Poenas )</b><br>
 <b>Date: June, 2020</b><br>
 <br><br>
 
